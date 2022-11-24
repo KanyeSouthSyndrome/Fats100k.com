@@ -1,6 +1,11 @@
-figure{
-    text-align: center;
-    border: 10px firebrick;
-    background-color: black;
-    color: maroon;
+figure {
+  text-align: center;
+  border: 10px firebrick;
+  background-color: black;
+  color: maroon;
+}
+nav {
+  margin: auto;
+  width: 64px;
+  height: 64px;
 }
