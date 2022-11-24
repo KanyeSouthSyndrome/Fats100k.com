@@ -5,3 +5,4 @@ for every .html page]
 [Every music frame will be an image of the Song Cover and an audio button for the mp3
 higher quality, no youtube bullshit, easy and pulls all content straight from downloaded, rendered, offline content
 from within the directory]
+[Github is NOT as complicated as you think dummy :)]
