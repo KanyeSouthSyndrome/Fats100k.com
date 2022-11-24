@@ -1,0 +1,7 @@
+[1.USE a few primary [aka hero] stylesheets for project rather than individual .css partner files
+for every .html page]
+[2.fuck youtube Iframes, use images as links to bring people to the Song Details pages]
+[ngl youtube iframes are ugly as fuck]
+[Every music frame will be an image of the Song Cover and an audio button for the mp3
+higher quality, no youtube bullshit, easy and pulls all content straight from downloaded, rendered, offline content
+from within the directory]
